@@ -1,13 +1,7 @@
 cmake_minimum_required(VERSION 3.5.0)
 
-set(CMAKE_C_COMPILE "F:\\cygwin\\bin\\gcc.exe")
-set(CMAKE_CXX_COMPILE "F:\\cygwin\\bin\\g++.exe")
 
 project(Gajiwo)
 
 add_subdirectory(include)
 add_subdirectory(src)
-
-
-
-

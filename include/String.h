@@ -22,10 +22,6 @@ namespace Yu{
             static bool has_suf(const string &p,const string &s);
             static string capitalize(const string &p);
             static string format(const char *p,...);
-
-
-
-
         };
     }
 }
