@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,liblibun.so -o liblibun.so CMakeFiles/libun.dir/String.cpp.o CMakeFiles/libun.dir/ini_file.cpp.o CMakeFiles/libun.dir/log.cpp.o CMakeFiles/libun.dir/parse_xml.cpp.o CMakeFiles/libun.dir/value.cpp.o CMakeFiles/libun.dir/xml.cpp.o 
